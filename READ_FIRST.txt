@@ -1,0 +1,3 @@
+The folders and files that are in the folder of this directory is for what to override and replace the create-next-app content that was generated. Some of the files will require you to input a domain link to either the assetsPrefix, homepage, README.md, etc.
+
+I have tried to make this layout as simple as humanly possible. Have fun and enjoy! :)
